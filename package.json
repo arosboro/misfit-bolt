@@ -38,7 +38,7 @@
   "dependencies": {
     "color": "^4.2.3",
     "debug": "^4.3.4",
-    "noble-device": "^1.4.1"
+    "noble-device": "abandonware/noble"
   },
   "devDependencies": {
     "chai": "^4.3.6",
